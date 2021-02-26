@@ -2115,6 +2115,16 @@ eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../.
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./node_modules/vant/es/divider/index.css":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./node_modules/vant/es/divider/index.css ***!
+  \**********************************************************************************************************************************************************************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\nexports = ___CSS_LOADER_API_IMPORT___(false);\n// Module\nexports.push([module.id, \".van-divider{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;margin:16px 0;color:#969799;font-size:14px;line-height:24px;border-color:#ebedf0;border-style:solid;border-width:0}.van-divider::after,.van-divider::before{display:block;-webkit-box-flex:1;-webkit-flex:1;flex:1;box-sizing:border-box;height:1px;border-color:inherit;border-style:inherit;border-width:1px 0 0}.van-divider::before{content:''}.van-divider--hairline::after,.van-divider--hairline::before{-webkit-transform:scaleY(.5);transform:scaleY(.5)}.van-divider--dashed{border-style:dashed}.van-divider--content-center::before,.van-divider--content-left::before,.van-divider--content-right::before{margin-right:16px}.van-divider--content-center::after,.van-divider--content-left::after,.van-divider--content-right::after{margin-left:16px;content:''}.van-divider--content-left::before{max-width:10%}.van-divider--content-right::after{max-width:10%}\", \"\"]);\n// Exports\nmodule.exports = exports;\n\n\n//# sourceURL=webpack://fish-vue/./node_modules/vant/es/divider/index.css?./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use%5B1%5D!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use%5B2%5D");
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./node_modules/vant/es/icon/index.css":
 /*!*******************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./node_modules/vant/es/icon/index.css ***!
@@ -2471,6 +2481,28 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue_
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_base_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../style/base.css */ \"./node_modules/vant/es/style/base.css\");\n/* harmony import */ var _style_base_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_base_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _action_bar_index_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../action-bar/index.css */ \"./node_modules/vant/es/action-bar/index.css\");\n/* harmony import */ var _action_bar_index_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_action_bar_index_css__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _badge_index_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../badge/index.css */ \"./node_modules/vant/es/badge/index.css\");\n/* harmony import */ var _badge_index_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_badge_index_css__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _icon_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../icon/index.css */ \"./node_modules/vant/es/icon/index.css\");\n/* harmony import */ var _icon_index_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_icon_index_css__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _loading_index_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../loading/index.css */ \"./node_modules/vant/es/loading/index.css\");\n/* harmony import */ var _loading_index_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_loading_index_css__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _button_index_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../button/index.css */ \"./node_modules/vant/es/button/index.css\");\n/* harmony import */ var _button_index_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_button_index_css__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _action_bar_button_index_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../action-bar-button/index.css */ \"./node_modules/vant/es/action-bar-button/index.css\");\n/* harmony import */ var _action_bar_button_index_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_action_bar_button_index_css__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _overlay_index_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../overlay/index.css */ \"./node_modules/vant/es/overlay/index.css\");\n/* harmony import */ var _overlay_index_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_overlay_index_css__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _popup_index_css__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../popup/index.css */ \"./node_modules/vant/es/popup/index.css\");\n/* harmony import */ var _popup_index_css__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_popup_index_css__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../index.css */ \"./node_modules/vant/es/dialog/index.css\");\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_9__);\n\n\n\n\n\n\n\n\n\n\n\n//# sourceURL=webpack://fish-vue/./node_modules/vant/es/dialog/style/index.js?");
+
+/***/ }),
+
+/***/ "./node_modules/vant/es/divider/index.js":
+/*!***********************************************!*\
+  !*** ./node_modules/vant/es/divider/index.js ***!
+  \***********************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ \"./node_modules/vue/dist/vue.runtime.esm-bundler.js\");\n/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ \"./node_modules/vant/es/utils/create/index.js\");\n\n\n\nvar _createNamespace = (0,_utils__WEBPACK_IMPORTED_MODULE_1__.createNamespace)('divider'),\n    createComponent = _createNamespace[0],\n    bem = _createNamespace[1];\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (createComponent({\n  props: {\n    dashed: Boolean,\n    hairline: {\n      type: Boolean,\n      default: true\n    },\n    contentPosition: {\n      type: String,\n      default: 'center'\n    }\n  },\n  setup: function setup(props, _ref) {\n    var slots = _ref.slots;\n    return function () {\n      var _bem;\n\n      return (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(\"div\", {\n        \"role\": \"separator\",\n        \"class\": bem((_bem = {\n          dashed: props.dashed,\n          hairline: props.hairline\n        }, _bem[\"content-\" + props.contentPosition] = !!slots.default, _bem))\n      }, [slots.default == null ? void 0 : slots.default()]);\n    };\n  }\n}));\n\n//# sourceURL=webpack://fish-vue/./node_modules/vant/es/divider/index.js?");
+
+/***/ }),
+
+/***/ "./node_modules/vant/es/divider/style/index.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/vant/es/divider/style/index.js ***!
+  \*****************************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_base_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../style/base.css */ \"./node_modules/vant/es/style/base.css\");\n/* harmony import */ var _style_base_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_base_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../index.css */ \"./node_modules/vant/es/divider/index.css\");\n/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\n//# sourceURL=webpack://fish-vue/./node_modules/vant/es/divider/style/index.js?");
 
 /***/ }),
 
@@ -3048,6 +3080,16 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// load the styles\nvar content = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!../../../postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./index.css */ \"./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./node_modules/vant/es/dialog/index.css\");\nif(typeof content === 'string') content = [[module.id, content, '']];\nif(content.locals) module.exports = content.locals;\n// add the styles to the DOM\nvar add = __webpack_require__(/*! !../../../vue-style-loader/lib/addStylesClient.js */ \"./node_modules/vue-style-loader/lib/addStylesClient.js\").default\nvar update = add(\"04a9d909\", content, false, {\"sourceMap\":false,\"shadowMode\":false});\n// Hot Module Replacement\nif(false) {}\n\n//# sourceURL=webpack://fish-vue/./node_modules/vant/es/dialog/index.css?");
+
+/***/ }),
+
+/***/ "./node_modules/vant/es/divider/index.css":
+/*!************************************************!*\
+  !*** ./node_modules/vant/es/divider/index.css ***!
+  \************************************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// load the styles\nvar content = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!../../../postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./index.css */ \"./node_modules/css-loader/dist/cjs.js??clonedRuleSet-13.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-13.use[2]!./node_modules/vant/es/divider/index.css\");\nif(typeof content === 'string') content = [[module.id, content, '']];\nif(content.locals) module.exports = content.locals;\n// add the styles to the DOM\nvar add = __webpack_require__(/*! !../../../vue-style-loader/lib/addStylesClient.js */ \"./node_modules/vue-style-loader/lib/addStylesClient.js\").default\nvar update = add(\"7247f668\", content, false, {\"sourceMap\":false,\"shadowMode\":false});\n// Hot Module Replacement\nif(false) {}\n\n//# sourceURL=webpack://fish-vue/./node_modules/vant/es/divider/index.css?");
 
 /***/ }),
 
